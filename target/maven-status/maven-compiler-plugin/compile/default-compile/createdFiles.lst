@@ -1,0 +1,4 @@
+com\librarymanagement\LibraryManagementService.class
+com\librarymanagement\repository\LibraryManagementRepository.class
+com\librarymanagement\model\Library.class
+com\librarymanagement\LibraryManagementApplication.class
